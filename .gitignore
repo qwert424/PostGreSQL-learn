@@ -1,0 +1,12 @@
+# mac
+DS_Store
+
+# temp
+/temp
+
+# database
+.db
+
+# PostgreSQL / pgAdmin 运行时数据（容器挂载卷，不入库）
+pgdata/
+pgadmin-data/
